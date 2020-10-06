@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'language_name' => 'angol',
+    'language_name' => 'magyar',
     'button_save' => 'Mentés',
     'button_yes' => 'Igen',
     'button_abort' => 'Mégse',
